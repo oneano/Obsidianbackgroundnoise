@@ -1,0 +1,9 @@
+{
+  "id": "background-noise",
+  "name": "Background Noise",
+  "version": "0.0.1",
+  "minAppVersion": "0.13.0",
+  "author": "Your Name",
+  "description": "Plays YouTube videos as background noise in a sidebar view.",
+  "isDesktopOnly": false
+}
